@@ -17,12 +17,12 @@ https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
 ## 自己节点生成订阅地址
 https://acl4ssr.netlify.app/
 
-##推荐windows客户端
+## 推荐windows客户端
 官方的需要对应修改config.json 下载证书文件
 https://raw.githubusercontent.com/atrandys/trojan/master/trojan.zip
 
 可视化界面
 https://github.com/TheWanderingCoel/Trojan-Qt5/releases
 
-##推荐Android客户端
+## 推荐Android客户端
 https://github.com/naicfeng/ClashRForAndroid/releases
