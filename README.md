@@ -26,3 +26,6 @@ https://github.com/TheWanderingCoel/Trojan-Qt5/releases
 
 ## 推荐Android客户端
 https://github.com/naicfeng/ClashRForAndroid/releases
+### Pharos
+https://merlinblog.xyz/usr/uploads/2020/01/2190260983.apk
+
