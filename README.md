@@ -18,13 +18,13 @@ https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
 https://acl4ssr.netlify.app/
 
 ## 推荐windows客户端
+### 可视化界面
+https://github.com/TheWanderingCoel/Trojan-Qt5/releases
 ### 官方的需要对应修改config.json 下载证书文件
 https://raw.githubusercontent.com/atrandys/trojan/master/trojan.zip
 
-### 可视化界面
-https://github.com/TheWanderingCoel/Trojan-Qt5/releases
-
 ## 推荐Android客户端
+### ClashRForAndroid
 https://github.com/naicfeng/ClashRForAndroid/releases
 ### Pharos
 https://merlinblog.xyz/usr/uploads/2020/01/2190260983.apk
