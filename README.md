@@ -26,6 +26,8 @@ https://raw.githubusercontent.com/atrandys/trojan/master/trojan.zip
 ## 推荐Android客户端
 ### ClashRForAndroid
 https://github.com/naicfeng/ClashRForAndroid/releases
+### ClashForAndroid
+https://github.com/Kr328/ClashForAndroid/releases
 ### Pharos
 https://merlinblog.xyz/usr/uploads/2020/01/2190260983.apk
 
