@@ -19,6 +19,7 @@ https://acl4ssr.netlify.app/
 
 ## 推荐windows客户端
 ### 可视化界面
+https://github.com/2dust/v2rayN/releases
 https://github.com/TheWanderingCoel/Trojan-Qt5/releases
 ### 官方的需要对应修改config.json 下载证书文件
 https://raw.githubusercontent.com/atrandys/trojan/master/trojan.zip
