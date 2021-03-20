@@ -23,7 +23,6 @@ https://github.com/2dust/v2rayN/releases
 
 https://github.com/cyao2q/trojan/raw/master/Trojan-Qt5-Windows-1.4.0.7z
 
-https://github.com/TheWanderingCoel/Trojan-Qt5/releases
 ### 官方的需要对应修改config.json 下载证书文件
 https://raw.githubusercontent.com/atrandys/trojan/master/trojan.zip
 
