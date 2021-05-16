@@ -24,6 +24,8 @@ https://github.com/2dust/v2rayN/releases
 https://github.com/cyao2q/trojan/raw/master/Trojan-Qt5-Windows.7z
 
 ## 推荐Android客户端
+#### v2rayNG
+https://github.com/2dust/v2rayNG/releases/tag/1.5.16
 #### ClashRForAndroid
 https://github.com/naicfeng/ClashRForAndroid/releases
 #### ClashForAndroid
