@@ -21,7 +21,7 @@ https://acl4ssr.netlify.app/
 #### 可视化界面
 https://github.com/2dust/v2rayN/releases
 
-https://github.com/cyao2q/trojan/raw/master/Trojan-Qt5-Windows-1.4.0.7z
+https://github.com/cyao2q/trojan/raw/master/Trojan-Qt5-Windows.7z
 
 ## 推荐Android客户端
 #### ClashRForAndroid
