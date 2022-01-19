@@ -15,6 +15,7 @@ bash <(curl -L -s -k https://raw.githubusercontent.com/cyao2q/trojan/master/tcp.
 https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
 
 ## 自己节点生成订阅地址
+https://acl4ssr-sub.github.io/
 https://acl4ssr.netlify.app/
 
 ## 推荐windows客户端
