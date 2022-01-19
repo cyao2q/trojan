@@ -34,3 +34,5 @@ https://github.com/Kr328/ClashForAndroid/releases
 ### Pharos
 https://merlinblog.xyz/usr/uploads/2020/01/2190260983.apk
 
+### 
+https://help.loliloli.live/
