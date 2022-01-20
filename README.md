@@ -22,6 +22,10 @@ https://acl4ssr.netlify.app/
 #### 可视化界面
 https://github.com/2dust/v2rayN/releases
 
+https://github.com/TheMRLL/WinXray/releases/tag/V4.4
+
+https://github.com/Qv2ray/Qv2ray/releases/tag/v2.7.0
+
 https://github.com/cyao2q/trojan/raw/master/Trojan-Qt5-Windows.7z
 
 ## 推荐Android客户端
