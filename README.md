@@ -3,9 +3,11 @@ https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
 
 ## trojan多用户管理部署程序
 #安装/更新
+
 source <(curl -sL https://git.io/trojan-install)
 
 #卸载
+
 source <(curl -sL https://git.io/trojan-install) --remove
 
 # trojan
