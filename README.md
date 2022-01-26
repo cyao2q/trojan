@@ -10,9 +10,6 @@ source <(curl -sL https://git.io/trojan-install)
 
 source <(curl -sL https://git.io/trojan-install) --remove
 
-# trojan
-trojan一键安装脚本、Android客户端、Windows客户端
-
 ## Trojan 一键脚本代码
 bash <(curl -s -L https://raw.githubusercontent.com/atrandys/trojan/master/trojan_mult.sh)
 #### OR
