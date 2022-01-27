@@ -3,7 +3,7 @@
 https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
 ```
 
-## trojan多用户管理部署程序[github](https://github.com/Jrohy/trojan)
+## trojan多用户管理部署程序 [Jrohy/trojan](https://github.com/Jrohy/trojan)
 #安装/更新
 ```
 source <(curl -sL https://git.io/trojan-install)
@@ -14,7 +14,7 @@ source <(curl -sL https://git.io/trojan-install)
 source <(curl -sL https://git.io/trojan-install) --remove
 ```
 
-## 支持多协议多用户的 xray 面板[github](https://github.com/vaxilu/x-ui)
+## 支持多协议多用户的 xray 面板 [vaxilu/x-ui](https://github.com/vaxilu/x-ui)
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
 ```
