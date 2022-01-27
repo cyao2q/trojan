@@ -10,6 +10,10 @@ source <(curl -sL https://git.io/trojan-install)
 
 source <(curl -sL https://git.io/trojan-install) --remove
 
+## 支持多协议多用户的 xray 面板 https://github.com/vaxilu/x-ui
+
+bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
+
 ## Trojan 一键脚本代码
 bash <(curl -s -L https://raw.githubusercontent.com/atrandys/trojan/master/trojan_mult.sh)
 #### OR
