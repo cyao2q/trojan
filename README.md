@@ -45,6 +45,8 @@ https://acl4ssr.netlify.app/
 #### 可视化界面
 https://github.com/2dust/v2rayN/releases
 
+https://github.com/2dust/v2rayN/releases/tag/3.29
+
 https://github.com/TheMRLL/WinXray/releases/tag/V4.4
 
 https://github.com/cyao2q/trojan/raw/master/Trojan-Qt5-Windows.7z
